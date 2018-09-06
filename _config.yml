@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: [Pili Guerra]
 description: [Welcome to my website]
+plugins:
+   - jekyll-mentions
+   - jemoji
+   - jekyll-redirect-from
+   - jekyll-sitemap
+   - jekyll-feed
