@@ -11,3 +11,5 @@ plugins:
    - jekyll-redirect-from
    - jekyll-sitemap
    - jekyll-feed
+   - jekyll-avatar
+   - jekyll-include-cache
