@@ -1,10 +1,22 @@
-theme: jekyll-theme-cayman
-title: [Pili Guerra]
-description: [Welcome to my website]
+# top level stuff you probably don't need to touch
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+extensions: [smart]
+permalink: /:title.html
+paginate: 5
+plugins: [jekyll-paginate]
+safe: true
+
+title: Pili Guerra
+description: Personal site
 url: https://piliguerra.com
-author: 
-  picture: /img/pili.png
-  twitter: mpguerra
+baseurl: /
+author: Pili Guerra
+avatar: pili.png
+github: mpguerra
+twitter: mpguerra
+linkedin: mpguerra
 plugins:
    - jekyll-mentions
    - jemoji
