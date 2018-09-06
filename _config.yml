@@ -1,6 +1,10 @@
 theme: jekyll-theme-cayman
 title: [Pili Guerra]
 description: [Welcome to my website]
+url: https://piliguerra.com
+author: 
+  picture: /img/pili.png
+  twitter: mpguerra
 plugins:
    - jekyll-mentions
    - jemoji
