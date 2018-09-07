@@ -2,6 +2,7 @@ title: Jagged Little Pili
 description: A little bit of everything
 url: "https://piliguerra.com"
 baseurl: ""
+remote_theme: willianjusten/will-jekyll-template
 
 # User settings
 username: Pili Guerra
