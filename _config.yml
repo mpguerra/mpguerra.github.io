@@ -35,8 +35,6 @@ links:
   - title: Photos
     url: https://photos.piliguerra.com
     external: true
-  - title: Tags
-    url: /tags
   - title: About Me
     url: /about
 
