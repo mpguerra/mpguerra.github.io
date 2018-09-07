@@ -1,15 +1,50 @@
-theme: jekyll-theme-cayman
-title: [Pili Guerra]
-description: [Welcome to my website]
-url: https://piliguerra.com
-author: 
-  picture: /img/pili.png
-  twitter: mpguerra
+title: Jagged Little Pili
+description: A little bit of everything
+url: "https://piliguerra.com"
+baseurl: ""
+
+# User settings
+username: Pili Guerra
+user_description: Technologist, troubleshooter, maker
+user_title: Pili Guerra
+email: pili@piliguerra.com
+twitter_username: mpguerra
+github_username:  mpguerra
+author: Pili Guerra
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# html minify
+compress_html:
+clippings: all
+comments: all
+endings: []
+profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Photos
+    url: photos.piliguerra.com
+    external: true
+  - title: Tags
+    url: /tags
+  - title: About Me
+    url: /about
+
 plugins:
-   - jekyll-mentions
-   - jemoji
-   - jekyll-redirect-from
-   - jekyll-sitemap
-   - jekyll-feed
-   - jekyll-avatar
-   - jekyll-include-cache
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-avatar
+- jekyll-include-cache
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
