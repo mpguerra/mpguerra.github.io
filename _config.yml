@@ -11,7 +11,9 @@ user_title: Pili Guerra
 email: pili@piliguerra.com
 twitter_username: mpguerra
 github_username:  mpguerra
+instagram_username: mpguerra
 author: Pili Guerra
+user_pgp_fingerprint: "3E7F A89E 2459 B6CC A62F  56B8 C6CB 772E F096 9C45"
 
 # Build settings
 markdown: kramdown
