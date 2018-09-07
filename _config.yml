@@ -5,7 +5,7 @@ baseurl: ""
 remote_theme: willianjusten/will-jekyll-template
 
 # User settings
-username: Pili Guerra
+username: Jagged Little Pili
 user_description: Technologist, troubleshooter, maker
 user_title: Pili Guerra
 email: pili@piliguerra.com
@@ -31,7 +31,7 @@ links:
   - title: Home
     url: /
   - title: Photos
-    url: photos.piliguerra.com
+    url: https://photos.piliguerra.com
     external: true
   - title: Tags
     url: /tags
