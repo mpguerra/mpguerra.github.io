@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "A New Beginning!"
+date: 2018-09-07
+image: '/assets/img/'
 ---
 
 # A New Beginning
